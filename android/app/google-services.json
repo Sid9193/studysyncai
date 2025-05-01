@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561076677717",
+    "project_id": "studysyncai-75641",
+    "storage_bucket": "studysyncai-75641.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561076677717:android:4ea5f9402f9f3f2a0ef8dc",
+        "android_client_info": {
+          "package_name": "com.sidneynguyen.my_first_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOBE6cKNK-R2XIXUxpgqBRAkD3RTC--50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
