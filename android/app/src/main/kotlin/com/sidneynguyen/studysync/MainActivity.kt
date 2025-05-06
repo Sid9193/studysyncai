@@ -1,4 +1,4 @@
-package com.sidneynguyen.my_first_flutter_app
+package com.sidneynguyen.studysync
 
 import io.flutter.embedding.android.FlutterActivity
 
