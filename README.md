@@ -1,16 +1,25 @@
-# my_first_flutter_app
+# 📚 StudySync
 
-A new Flutter project.
+StudySync is a productivity mobile application built using Flutter and Firebase. It is designed to help students manage study sessions effectively through solo timers, AI-generated prompts, tasks, schedules, and more.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔐 **Authentication** – Secure login and registration with Firebase Auth.
+- 🧠 **AI Study** – Enter a topic to generate a prompt for guided learning.
+- ⏳ **Solo Study Timer** – Pomodoro-style timer with customizable durations.
+- ✅ **Task Management** – Create, mark, and delete personal tasks.
+- 📅 **Scheduling** – Add study reminders to specific calendar dates.
+- ⚙️ **Settings** – Personalize app experience and logout.
+- 🔒 **Firestore Integration** – Persistent data storage per user.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧪 Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** – UI Framework
+- **Firebase Auth** – User Authentication
+- **Cloud Firestore** – Real-time data storage
+- **Google Play Console** – App publishing
+- **Dart** – Programming Language
+
+
+
